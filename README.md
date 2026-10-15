@@ -1,5 +1,7 @@
 # Centro Conteña — Propuesta de rediseño
 
+![Vista previa de la portada de Centro Conteña](vista-previa-web.png)
+
 Sitio estático con animaciones de desplazamiento, galería, testimonios en video, Google Maps y contacto por WhatsApp.
 
 ## Uso
